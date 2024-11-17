@@ -25,7 +25,7 @@ public class Main {
 
         game.newUpdate("Added two bosses, and 3 new types of weapons");
 
-        // NEW UPDATES
+        // TEST CHANGES
 
         king.display();
         king.performFight();
